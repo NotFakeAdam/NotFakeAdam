@@ -4,7 +4,6 @@ About Me
  <h2 align="center">
    This Adam 
  </h2>
-  <img align="right" src="https://lanyard.cnrad.dev/api/223118041926336512" alt="Discord Status">
   
  - am 18
  - I like the real engine 4, the real engine 5 is kinda chilly.
