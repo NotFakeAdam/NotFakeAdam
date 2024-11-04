@@ -5,7 +5,7 @@ About Me
    This Adam 
  </h2>
   
- - am 19 (20 this year)
+ - 20
  - Unreal Engine 4
 
 <!--
